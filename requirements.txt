@@ -13,3 +13,4 @@ python-dotenv>=1.0.0
 ipykernel>=6.0.0
 jupyterlab>=4.0.0
 openpyxl
+streamlit

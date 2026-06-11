@@ -1,9 +1,38 @@
-# online_course_recommendation
+## Requirements
+
+numpy>=1.26.0
+
+pandas>=2.0.0
+
+scipy>=1.11.0
+
+scikit-learn>=1.3.0
+
+matplotlib>=3.8.0
+
+seaborn>=0.13.2
+
+tensorflow>=2.14.0
+
+torch>=2.1.0
+
+xgboost>=1.7.0
+
+lightgbm>=4.0.0
+
+joblib>=1.3.0
+
+python-dotenv>=1.0.0
+
+ipykernel>=6.0.0
+
+jupyterlab>=4.0.0
+
+openpyxl
+
+streamlit
+
+---
 
 
-## Group 2 Project  
-
-
-
-## Rough analysis  
-
+## Use <mark>python.exe -m streamlit run app.py</mark> after running the main.ipynb
